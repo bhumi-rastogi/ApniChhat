@@ -1,7 +1,5 @@
 nav{
-    /* height: 80px; */
-    background-color: #A1A6B4;
-    /* width: auto; */
+    background-color: rgb(19, 38, 63);
     box-shadow: 0 4px 8px #B4D2E7;
     display: flex;
     justify-content: space-between;
@@ -9,10 +7,51 @@ nav{
 
 }
 nav img{
-    height:40px;
-    width: auto;
+    height: 4%;
+    width: 4%;
     border-radius: 50%;
     margin: 20px;
     box-shadow: 0 2px 4px #ffffff;
     border: 20px;
+}
+
+.link{
+    display: flex;
+}
+
+.link li{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 20px;
+}
+
+.link li a{
+    text-decoration: none;
+    list-style: none;
+    color: whitesmoke;
+}
+.link li a:hover{
+    list-style: none;
+}
+
+.btn{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+}
+
+.login{
+    background-color: rgb(19, 38, 63);
+    color: white;
+    border: 2px solid #ffffffb3;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.sign{
+    background-color:#ff6b6b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
 }

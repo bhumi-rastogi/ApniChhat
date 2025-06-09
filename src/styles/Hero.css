@@ -1,0 +1,56 @@
+.main {
+    height: 87vh;
+    background-image: url('src/assets/bg.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+.text{
+    color: #000000;
+    text-shadow: 4px 4px 8px rgba(255, 255, 255, 0.6);
+    font-size: 2.5rem;
+    padding: 3rem;
+}
+
+form {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 2rem;
+    border-radius: 16px;
+    width: 512px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+form h2 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+    font-size: 1.8rem;
+}
+  
+  form input {
+    width: 90%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 10px;
+    font-size: 1rem;
+  }
+  
+  form button {
+    width: 100%;
+    padding: 1rem;
+    background: #ff6600;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  

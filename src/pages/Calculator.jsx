@@ -2,10 +2,10 @@ import React from 'react'
 import Hero from '../components/Hero'
 
 
-const About = () => {
+const Calculator = () => {
   return (
     <Hero/>
   )
 }
 
-export default About
+export default Calculator
