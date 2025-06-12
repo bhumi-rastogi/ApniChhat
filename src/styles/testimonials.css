@@ -1,0 +1,10 @@
+.box {
+  padding: 3rem;
+  background-color: #94C5CC;
+}
+
+.box h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
