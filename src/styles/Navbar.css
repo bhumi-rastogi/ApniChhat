@@ -38,11 +38,11 @@ nav img{
     display: flex;
     gap: 10px;
     margin-right: 20px;
+    color: white;
 }
 
 .login{
     background-color: rgb(19, 38, 63);
-    color: white;
     border: 2px solid #ffffffb3;
     padding: 10px 20px;
     border-radius: 4px;
@@ -50,7 +50,6 @@ nav img{
 
 .sign{
     background-color:#ff6b6b;
-    color: white;
     border: none;
     padding: 10px 20px;
     border-radius: 4px;
