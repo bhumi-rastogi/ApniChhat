@@ -56,7 +56,7 @@ const Testimonials = () => {
   return (
     <div className="box">
       <h2>Testimonials</h2>
-      <div className="list">
+      <div className="people">
         {customers.map((item) => (
           <Card key={item.key} {...item}/>
         ))}

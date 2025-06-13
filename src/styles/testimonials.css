@@ -8,3 +8,17 @@
   margin-bottom: 2rem;
   text-align: center;
 }
+
+.people{
+  display: flex;
+  overflow-x: auto;
+  gap: 2.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.people img{
+  border-radius: 50%;
+  height: 100px;
+  width: 120px;
+  margin: 14px 0;
+}
