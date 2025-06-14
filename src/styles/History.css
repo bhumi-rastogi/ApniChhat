@@ -1,6 +1,6 @@
 .board {
     background-color: #dce3e8;
-    padding: 30px 30px;
+    padding: 30px;
     font-family: 'Inter', sans-serif;
     text-align: center;
     height: 400px;
@@ -27,11 +27,9 @@
     padding: 20px;
     border-radius: 16px;
     box-shadow: 6px 12px black;
-    transition: transform 0.2s ease-in-out;
-    min-height: 120px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    height: 120px;
+    text-align: center;
+    padding-top: 40px;
 }
   
 .card:nth-child(odd) {
