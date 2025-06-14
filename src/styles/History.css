@@ -1,0 +1,55 @@
+.board {
+    background-color: #dce3e8;
+    padding: 30px 30px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    height: 400px;
+}
+  
+.board h2{
+    font-size: 2.5rem;
+    margin-top: 30px;
+    text-shadow: 2px 2px #000100;
+}
+
+.board > p{
+    font-size: 1.5rem;
+    padding-top: 40px;
+}
+  
+.flex {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+  
+.card {
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 6px 12px black;
+    transition: transform 0.2s ease-in-out;
+    min-height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+  
+.card:nth-child(odd) {
+    background-color: #94C5CC;
+}
+  
+.card:nth-child(even) {
+    background-color: #A1A6B4;
+    color: white;
+}
+  
+.year {
+    font-size: 1.25rem;
+    font-weight: bold; 
+    margin-bottom: 10px;
+}
+  
+.desc {
+    font-size: 0.95rem;
+}
+  
