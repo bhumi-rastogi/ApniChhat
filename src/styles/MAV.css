@@ -1,0 +1,39 @@
+.mav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px 40px;
+    background-color: #cdeae5;
+}
+  
+.mcard{
+    width: 900px;
+    padding: 24px 30px;
+    border-radius: 29px;
+    box-shadow: 10px 20px rgb(0, 0, 0);
+    margin-bottom: 30px;
+}
+  
+.mcard h3{
+    font-size: 2rem;
+    margin-bottom: 12px;
+    color: #000100;
+    text-align: center;
+}
+  
+.mcard p{
+    font-size: 1.30rem;
+    color: #000100;
+    padding: 20px;
+}
+  
+.mis{
+    background-color: #94C5CC;
+    margin-bottom: 60px;
+}
+  
+.vis{
+    background-color: #A1A6B4;
+}
+
+  
