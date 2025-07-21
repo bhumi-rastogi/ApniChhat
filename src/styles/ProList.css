@@ -1,0 +1,35 @@
+.scroll {
+  display: flex;
+  overflow-y: hidden;
+  padding: 16px;
+  gap: 25px;
+  height: 330px;
+  background-color: #94C5CC;
+  text-align: center;
+}
+.bg>h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    padding: 25px;
+}
+.bg{
+    background-color: #94C5CC;
+    padding-bottom: 50px;
+}
+.property {
+  flex: 0 0 auto; 
+  width: 250px;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 2px 6px rgba(0, 0, 0, 0.1);
+  text-transform: capitalize;
+  background: white;
+  font-size: medium;
+}
+
+.property img {
+  width: 100%;
+  margin-bottom: 16px;
+}

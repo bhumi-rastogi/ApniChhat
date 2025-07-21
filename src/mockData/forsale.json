@@ -1,0 +1,5848 @@
+{
+  "count": 50,
+  "mortgage_params": {
+    "interest_rate": 6.829
+  },
+  "properties": [
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Joshuas Realty",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 1857,
+        "name": null,
+        "sold_date": "1989-08-28",
+        "sold_price": 166000,
+        "sqft": null,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-04-24T16:32:01.000000Z",
+      "list_price": 195000,
+      "listing_id": "2980941612",
+      "location": {
+        "address": {
+          "city": "Richmond Hill",
+          "coordinate": {
+            "lat": 40.687922,
+            "lon": -73.827574
+          },
+          "line": "101-51 116 St",
+          "postal_code": "11419",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36081",
+          "name": "Queens"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=101-51%20116%20St%2C%20Richmond%20Hill%2C%20NY%2011419&size=640x480&source=outdoor&signature=kICrBV_kSOdBbv5phEj8jic56VE="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "10151-116th-St_S-Richmond-Hl_NY_11419_M43132-13209",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/25154691562a7855e056ce7cfb4dd8a9l-m323269674s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/25154691562a7855e056ce7cfb4dd8a9l-m2142075641s.jpg"
+        }
+      ],
+      "price_reduced_amount": 4000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/25154691562a7855e056ce7cfb4dd8a9l-m323269674s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4313213209",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "STNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "PEERLESS PROPERTIES CORP.",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 2,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": "2006-11-09",
+        "sold_price": 375180,
+        "sqft": 1400,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": "condo",
+        "type": "condos"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-05-02T15:21:27.000000Z",
+      "list_price": 1,
+      "listing_id": "2981343021",
+      "location": {
+        "address": {
+          "city": "Brooklyn",
+          "coordinate": {
+            "lat": 40.630976,
+            "lon": -73.887328
+          },
+          "line": "9536 Schenck St Apt 3",
+          "postal_code": "11236",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36047",
+          "name": "Kings"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=9536%20Schenck%20St%20Apt%203%2C%20Brooklyn%2C%20NY%2011236&size=640x480&source=outdoor&signature=459d0Crv23UjOmYfhuD95Mkewv0="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "9536-Schenck-St-Apt-3_Brooklyn_NY_11236_M36165-29715",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/696b3abb1788af636ffd7191e1039a0bl-m4209560039s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/696b3abb1788af636ffd7191e1039a0bl-m2401221400s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/696b3abb1788af636ffd7191e1039a0bl-m4209560039s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "3616529715",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BONY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "WARREN REAL ESTATE OF GREATER BINGH",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "3",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 30056,
+        "name": null,
+        "sold_date": "2003-12-03",
+        "sold_price": 130000,
+        "sqft": 2614,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": true,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": true,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-14T17:28:36.000000Z",
+      "list_price": 368000,
+      "listing_id": "2984237493",
+      "location": {
+        "address": {
+          "city": "Vestal",
+          "coordinate": {
+            "lat": 42.090836,
+            "lon": -76.017917
+          },
+          "line": "401 W Benita Blvd",
+          "postal_code": "13850",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36007",
+          "name": "Broome"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=401%20W%20Benita%20Blvd%2C%20Vestal%2C%20NY%2013850&size=640x480&source=outdoor&signature=uTDYmyYfUhlWKOgm3Ad9_KUoQiQ="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "401-W-Benita-Blvd_Vestal_NY_13850_M35113-50460",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/832030fa1555f3950099f07dd08f4cebl-m2587069761s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/832030fa1555f3950099f07dd08f4cebl-m4285195817s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/832030fa1555f3950099f07dd08f4cebl-m2587069761s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "3511350460",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BRNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/gbar/331997",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Hanover Realty Corp Ny",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 5,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 1650,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 2240,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-03T19:33:28.000000Z",
+      "list_price": 425000,
+      "listing_id": "2982654947",
+      "location": {
+        "address": {
+          "city": "Brooklyn",
+          "coordinate": {
+            "lat": 40.664071,
+            "lon": -73.952679
+          },
+          "line": "287 Empire Blvd",
+          "postal_code": "11225",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36047",
+          "name": "Kings"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=287%20Empire%20Blvd%2C%20Brooklyn%2C%20NY%2011225&size=640x480&source=outdoor&signature=PKUAJfzYZtbRc6YF-2UESnDgOXI="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "287-Empire-Blvd_Brooklyn_NY_11225_M37007-13173",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/8b55da81ba2702b544c467d886a29d9fl-m2624231822s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/8b55da81ba2702b544c467d886a29d9fl-m2624231822s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "co_broke"
+        ]
+      },
+      "property_id": "3700713173",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "STNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Rock Home Realty Group Inc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": null,
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 0,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": "2007-04-02",
+        "sold_price": 371000,
+        "sqft": null,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-02-18T21:41:20.000000Z",
+      "list_price": 300000,
+      "listing_id": "2924153069",
+      "location": {
+        "address": {
+          "city": "South Ozone Park",
+          "coordinate": {
+            "lat": 40.677063,
+            "lon": -73.811483
+          },
+          "line": "12702 116th Ave",
+          "postal_code": "11420",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36081",
+          "name": "Queens"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=12702%20116th%20Ave%2C%20South%20Ozone%20Park%2C%20NY%2011420&size=640x480&source=outdoor&signature=yoVr6wbr2YYNS7DSTop5_QltB64="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "12702-116th-Ave_South-Ozone-Park_NY_11420_M39657-63231",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/aba892ef07fd636e84ab87c44d5ab47dl-m4275822389s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/aba892ef07fd636e84ab87c44d5ab47dl-m4275822389s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "co_broke"
+        ]
+      },
+      "property_id": "3965763231",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "STNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Homes Of Ny Realty Inc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": {
+        "advertisers": null,
+        "description": {
+          "name": null
+        },
+        "permalink": "100-W-57th-St_New-York_NY_10019_B9469567618",
+        "promotions": null,
+        "property_id": "9469567618"
+      },
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 1,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": "2015-07-16",
+        "sold_price": 635000,
+        "sqft": 850,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": "co_op",
+        "type": "coop"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-04-02T18:17:22.000000Z",
+      "list_price": 145000,
+      "listing_id": "2980082436",
+      "location": {
+        "address": {
+          "city": "New York",
+          "coordinate": {
+            "lat": 40.764095,
+            "lon": -73.977846
+          },
+          "line": "100 W 57th St Apt 2G",
+          "postal_code": "10019",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36061",
+          "name": "New York"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=100%20W%2057th%20St%20Apt%202G%2C%20New%20York%2C%20NY%2010019&size=640x480&source=outdoor&signature=mKgrzFoD47UjtJWgctt6i_v5kso="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "100-W-57th-St-Apt-2G_New-York_NY_10019_M43962-38029",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/fd201bae3346fe6e70dd26bab12b3548l-m95326326s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/fd201bae3346fe6e70dd26bab12b3548l-m340147678s.jpg"
+        }
+      ],
+      "price_reduced_amount": 4000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/fd201bae3346fe6e70dd26bab12b3548l-m95326326s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "listing_agent_product",
+          "co_broke"
+        ]
+      },
+      "property_id": "4396238029",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": "Homes of NY Realty Inc"
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "REALTY MASTERS INTERNATIONAL INC",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1060,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-04-25T19:14:35.000000Z",
+      "list_price": 180000,
+      "listing_id": "2981007048",
+      "location": {
+        "address": {
+          "city": "Bronx",
+          "coordinate": {
+            "lat": 40.886059,
+            "lon": -73.859413
+          },
+          "line": "749 E 223rd St",
+          "postal_code": "10466",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36005",
+          "name": "Bronx"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=749%20E%20223rd%20St%2C%20Bronx%2C%20NY%2010466&size=640x480&source=outdoor&signature=5ESwG5TRcfk-pB_mXJ0PmvAlh58="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "749-E-223rd-St_Bronx_NY_10466_M99707-97479",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/1d834b288f5871263c20ac0fb8b74bfbl-m2981364095s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/1d834b288f5871263c20ac0fb8b74bfbl-m2981364095s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/1d834b288f5871263c20ac0fb8b74bfbl-m2981364095s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "9970797479",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "STNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        },
+        {
+          "builder": null,
+          "type": "co_seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "HOWARD HANNA RAND REALTY CV",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 2,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 12001,
+        "name": null,
+        "sold_date": "2007-04-12",
+        "sold_price": 90000,
+        "sqft": 700,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-03T21:17:14.000000Z",
+      "list_price": 180000,
+      "listing_id": "2983904153",
+      "location": {
+        "address": {
+          "city": "Monroe",
+          "coordinate": {
+            "lat": 41.38538,
+            "lon": -74.146265
+          },
+          "line": "70 Sylvan Trl",
+          "postal_code": "10950",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36071",
+          "name": "Orange"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=70%20Sylvan%20Trl%2C%20Monroe%2C%20NY%2010950&size=640x480&source=outdoor&signature=w8KPwqe6xF7MklCUq7mv3XjeJjs="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "70-Sylvan-Trl_Monroe_NY_10950_M46444-24161",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/f81d6f593afa51591390e713cfd91644l-m3332278473s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/f81d6f593afa51591390e713cfd91644l-m3685700848s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/f81d6f593afa51591390e713cfd91644l-m3332278473s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4644424161",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": "Howard Hanna Rand Realty"
+          },
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Davis R Chant Realtors Milford",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 2,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 7841,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 824,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-05-15T20:42:51.000000Z",
+      "list_price": 139000,
+      "listing_id": "2981914692",
+      "location": {
+        "address": {
+          "city": "Deer Park",
+          "coordinate": null,
+          "line": "27 First St",
+          "postal_code": null,
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": null,
+          "name": "Suffolk"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=27%20First%20St%2C%20Deer%20Park%2C%20NY%20undefined&size=640x480&source=outdoor&signature=UqRga9UaiR9SfN-NWgzXJWXsO4k="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "27-W-1st-St_Deer-Park_NY_11729_M93380-35728",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/3784a36eb1d3c66a37baa8b53de17ff2l-m1053146694s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/3784a36eb1d3c66a37baa8b53de17ff2l-m3596940276s.jpg"
+        }
+      ],
+      "price_reduced_amount": 10000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/3784a36eb1d3c66a37baa8b53de17ff2l-m1053146694s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "9338035728",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "PWPA",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Roslyn",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 1742,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1200,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": "co_op",
+        "type": "coop"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-03-27T14:33:00.000000Z",
+      "list_price": 134900,
+      "listing_id": "2979838359",
+      "location": {
+        "address": {
+          "city": "Bronx",
+          "coordinate": {
+            "lat": 40.82199,
+            "lon": -73.806821
+          },
+          "line": "9 Alden Park Unit 9",
+          "postal_code": "10465",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36005",
+          "name": "Bronx"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=9%20Alden%20Park%20Unit%209%2C%20Bronx%2C%20NY%2010465&size=640x480&source=outdoor&signature=Ka-dhVIdPBHaJQrUKsQirwZB6RI="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "9-Alden-Park_Bronx_NY_10465_M36722-32149",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/d54f9cbfa5c73187de73f12323a631f3l-m4187370780s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/d54f9cbfa5c73187de73f12323a631f3l-m2002797579s.jpg"
+        }
+      ],
+      "price_reduced_amount": 15000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/d54f9cbfa5c73187de73f12323a631f3l-m4187370780s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "3672232149",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Keller Williams Realty",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "3",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 27878,
+        "name": null,
+        "sold_date": "2008-03-12",
+        "sold_price": 300000,
+        "sqft": 2100,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-12T16:33:04.000000Z",
+      "list_price": 465000,
+      "listing_id": "2983044046",
+      "location": {
+        "address": {
+          "city": "Middletown",
+          "coordinate": {
+            "lat": 41.409829,
+            "lon": -74.501462
+          },
+          "line": "450 MT Orange Rd",
+          "postal_code": "10940",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36071",
+          "name": "Orange"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=450%20MT%20Orange%20Rd%2C%20Middletown%2C%20NY%2010940&size=640x480&source=outdoor&signature=xYWJBB0eb9sPvK0O5fo__nqYvqk="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "450-MT-Orange-Rd_Middletown_NY_10940_M44683-79849",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/1bb4d90fe16935c1df26915384e35975l-m1617019128s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/1bb4d90fe16935c1df26915384e35975l-m2813471857s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/1bb4d90fe16935c1df26915384e35975l-m1617019128s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4468379849",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Island Advantage Realty Llc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "3",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 5600,
+        "name": null,
+        "sold_date": "2018-08-30",
+        "sold_price": 375000,
+        "sqft": 1134,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-04-30T20:17:30.000000Z",
+      "list_price": 550000,
+      "listing_id": "2981173359",
+      "location": {
+        "address": {
+          "city": "Freeport",
+          "coordinate": {
+            "lat": 40.645158,
+            "lon": -73.600792
+          },
+          "line": "338 S Brookside Ave",
+          "postal_code": "11520",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36059",
+          "name": "Nassau"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=338%20S%20Brookside%20Ave%2C%20Freeport%2C%20NY%2011520&size=640x480&source=outdoor&signature=5QgK0po80EZm2gadk7On68V-KfQ="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "338-S-Brookside-Ave_Freeport_NY_11520_M47258-33524",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/5455ac944166809e2f564e1ed8fd4498l-m500003333s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/5455ac944166809e2f564e1ed8fd4498l-m270203202s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/5455ac944166809e2f564e1ed8fd4498l-m500003333s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4725833524",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "HUNT Real Estate ERA - Amherst",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 3485,
+        "name": null,
+        "sold_date": "2011-05-17",
+        "sold_price": 22708,
+        "sqft": 1974,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "multi_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-05-20T11:36:45.000000Z",
+      "list_price": 184900,
+      "listing_id": "2982088022",
+      "location": {
+        "address": {
+          "city": "Buffalo",
+          "coordinate": {
+            "lat": 42.919233,
+            "lon": -78.798823
+          },
+          "line": "27 E End Ave",
+          "postal_code": "14225",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36029",
+          "name": "Erie"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=27%20E%20End%20Ave%2C%20Buffalo%2C%20NY%2014225&size=640x480&source=outdoor&signature=t2EDsjSTx4etZ8bVnzIVi-FaApo="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "27-E-End-Ave_Buffalo_NY_14225_M36905-87568",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/1d26d20183ecb966ff3f6cbcb848449bl-m3437480732s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/1d26d20183ecb966ff3f6cbcb848449bl-m3206606114s.jpg"
+        }
+      ],
+      "price_reduced_amount": 15000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/1d26d20183ecb966ff3f6cbcb848449bl-m3437480732s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "3690587568",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://realtypix360.aryeo.com/sites/vezkonw/unbranded",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Towne Housing Real Estate",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 5,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 3003,
+        "name": null,
+        "sold_date": "1999-06-25",
+        "sold_price": 14500,
+        "sqft": 1798,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-04-23T15:33:55.000000Z",
+      "list_price": 74900,
+      "listing_id": "2980888648",
+      "location": {
+        "address": {
+          "city": "Niagara Falls",
+          "coordinate": {
+            "lat": 43.107494,
+            "lon": -79.044923
+          },
+          "line": "1335 Niagara Ave",
+          "postal_code": "14305",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36063",
+          "name": "Niagara"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1335%20Niagara%20Ave%2C%20Niagara%20Falls%2C%20NY%2014305&size=640x480&source=outdoor&signature=vL_VSa9KMKCFiRtyIn_N4x7uZW8="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "1335-Niagara-Ave_Niagara-Falls_NY_14305_M41953-45344",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/9dd44e24689f735eb15b281885d01814l-m3672638961s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/9dd44e24689f735eb15b281885d01814l-m1689256813s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/9dd44e24689f735eb15b281885d01814l-m3672638961s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4195345344",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Adolfi Real Estate, Inc.",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 3200,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1294,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-10T14:43:09.000000Z",
+      "list_price": 32000,
+      "listing_id": "2984095554",
+      "location": {
+        "address": {
+          "city": "Syracuse",
+          "coordinate": {
+            "lat": 43.060093,
+            "lon": -76.21957
+          },
+          "line": "509 2nd St",
+          "postal_code": "13209",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36067",
+          "name": "Onondaga"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=509%202nd%20St%2C%20Syracuse%2C%20NY%2013209&size=640x480&source=outdoor&signature=9cnZnMZIl9y3-pzi6-wcOZMiiGc="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "509-2nd-St_Syracuse_NY_13209_M42453-97142",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/4557fbd37f6f707d3af9d993c876a350l-m2739597303s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/4557fbd37f6f707d3af9d993c876a350l-m1277815614s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/4557fbd37f6f707d3af9d993c876a350l-m2739597303s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "co_broke"
+        ]
+      },
+      "property_id": "4245397142",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/syr/S1619580",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Geon Real Estate Services",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 2,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 5000,
+        "name": null,
+        "sold_date": "2025-01-22",
+        "sold_price": 330000,
+        "sqft": 1100,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-02-20T16:32:58.000000Z",
+      "list_price": 579,
+      "listing_id": "2978496770",
+      "location": {
+        "address": {
+          "city": "Lindenhurst",
+          "coordinate": {
+            "lat": 40.702612,
+            "lon": -73.389518
+          },
+          "line": "336 51st St",
+          "postal_code": "11757",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36103",
+          "name": "Suffolk"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=336%2051st%20St%2C%20Lindenhurst%2C%20NY%2011757&size=640x480&source=outdoor&signature=KxYA-jmXis17jO-Slfy5OQIUb3U="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "336-51st-St_Lindenhurst_NY_11757_M43073-02261",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/8ff126b01f0d010b290c6e0ac92081abl-m959991423s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/8ff126b01f0d010b290c6e0ac92081abl-m3285249597s.jpg"
+        }
+      ],
+      "price_reduced_amount": 549420,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/8ff126b01f0d010b290c6e0ac92081abl-m959991423s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4307302261",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        },
+        {
+          "builder": null,
+          "type": "co_seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Brzostek's Real Estate",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 37026,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 840,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": true,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-11T15:49:17.000000Z",
+      "list_price": 49844,
+      "listing_id": "2984149141",
+      "location": {
+        "address": {
+          "city": "Oneida",
+          "coordinate": {
+            "lat": 43.037349,
+            "lon": -75.688464
+          },
+          "line": "6792 Creek Rd",
+          "postal_code": "13421",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36053",
+          "name": "Madison"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=6792%20Creek%20Rd%2C%20Oneida%2C%20NY%2013421&size=640x480&source=outdoor&signature=nEVC0GdDZ15cQlKV6tsE4uKfY9I="
+      },
+      "matterport": false,
+      "open_houses": [
+        {
+          "end_date": "2025-07-27T16:00:00",
+          "start_date": "2025-07-27T13:00:00"
+        }
+      ],
+      "permalink": "6792-Creek-Rd_Oneida_NY_13421_M38285-41746",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/d35f5b99ebd1f97cf230e418ced4446el-m2452104353s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/d35f5b99ebd1f97cf230e418ced4446el-m3450310425s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/d35f5b99ebd1f97cf230e418ced4446el-m2452104353s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "3828541746",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": "Brzostek's Real Estate"
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/syr/S1621892",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "RE/MAX Realty Group",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 6,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 3268,
+        "name": null,
+        "sold_date": "2006-08-14",
+        "sold_price": 44900,
+        "sqft": 2070,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "multi_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-04T17:28:03.000000Z",
+      "list_price": 125000,
+      "listing_id": "2982702486",
+      "location": {
+        "address": {
+          "city": "Rochester",
+          "coordinate": {
+            "lat": 43.166728,
+            "lon": -77.632084
+          },
+          "line": "104 Parkway",
+          "postal_code": "14608",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36055",
+          "name": "Monroe"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=104%20Parkway%2C%20Rochester%2C%20NY%2014608&size=640x480&source=outdoor&signature=riqBB8DFMGWswV-EUhw7uGHSTbI="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "104-Parkway_Rochester_NY_14608_M44043-74295",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/e6bf82a7d02e46b58a07d5e3cb40ba8el-b1838988452s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/e6bf82a7d02e46b58a07d5e3cb40ba8el-b255692220s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/e6bf82a7d02e46b58a07d5e3cb40ba8el-b1838988452s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4404374295",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Liberty Chateau Realty Inc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 3080,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1216,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-02T23:16:50.000000Z",
+      "list_price": 499900,
+      "listing_id": "2983863056",
+      "location": {
+        "address": {
+          "city": "South Ozone Park",
+          "coordinate": {
+            "lat": 40.671968,
+            "lon": -73.807763
+          },
+          "line": "129-06 131 St",
+          "postal_code": "11420",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36081",
+          "name": "Queens"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=129-06%20131%20St%2C%20South%20Ozone%20Park%2C%20NY%2011420&size=640x480&source=outdoor&signature=h_ZKuj5cPlzwlD8CcJGf4ajBOCo="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "12906-131st-St_South-Ozone-Park_NY_11420_M38418-03407",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/13009f983a38e165910a570cd1549a58l-m3311667666s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/13009f983a38e165910a570cd1549a58l-m995526939s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/13009f983a38e165910a570cd1549a58l-m3311667666s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "3841803407",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Keller Williams Realty NY",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 6020,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1560,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-03T19:09:45.000000Z",
+      "list_price": 159900,
+      "listing_id": "2983896258",
+      "location": {
+        "address": {
+          "city": "Batavia",
+          "coordinate": {
+            "lat": 43.004232,
+            "lon": -78.202966
+          },
+          "line": "3 River St",
+          "postal_code": "14020",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36037",
+          "name": "Genesee"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3%20River%20St%2C%20Batavia%2C%20NY%2014020&size=640x480&source=outdoor&signature=lPwsDqNFqA5XCMUSNz30LiYrlBI="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "3-River-St_Batavia_NY_14020_M94017-25113",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/563a732553b3483e1ba8ac4557b6af43l-m1506594761s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/563a732553b3483e1ba8ac4557b6af43l-m3368740402s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/563a732553b3483e1ba8ac4557b6af43l-m1506594761s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "9401725113",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Nella Management Llc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "3",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": "2022-08-09",
+        "sold_price": 95000,
+        "sqft": 1880,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-04-06T03:39:30.000000Z",
+      "list_price": 375000,
+      "listing_id": "2962138546",
+      "location": {
+        "address": {
+          "city": "West Hempstead",
+          "coordinate": {
+            "lat": 40.681336,
+            "lon": -73.652358
+          },
+          "line": "841 Woodfield Rd",
+          "postal_code": "11552",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36059",
+          "name": "Nassau"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=841%20Woodfield%20Rd%2C%20West%20Hempstead%2C%20NY%2011552&size=640x480&source=outdoor&signature=rnHnIEzEJVruNWtRd1qZJb99YRU="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "841-Woodfield-Rd_West-Hempstead_NY_11552_M47849-90257",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/0cbe911126a2e67c901ce7803cd68f9fl-m1896154062s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/0cbe911126a2e67c901ce7803cd68f9fl-m2982711089s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/0cbe911126a2e67c901ce7803cd68f9fl-m1896154062s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "co_broke"
+        ]
+      },
+      "property_id": "4784990257",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "STNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Nikki Coates & Associates LLC",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 117612,
+        "name": null,
+        "sold_date": "2021-04-13",
+        "sold_price": 45000,
+        "sqft": 928,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-22T17:31:01.000000Z",
+      "list_price": 90000,
+      "listing_id": "2983407729",
+      "location": {
+        "address": {
+          "city": "Potsdam",
+          "coordinate": {
+            "lat": 44.680974,
+            "lon": -75.09201
+          },
+          "line": "1884 County Road 35",
+          "postal_code": "13676",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36089",
+          "name": "St. Lawrence"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1884%20County%20Road%2035%2C%20Potsdam%2C%20NY%2013676&size=640x480&source=outdoor&signature=FGESIs5deD2Hi4L6NCKCeqUJt_k="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "1884-County-Route-35_Potsdam_NY_13676_M39455-46962",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/45710c4eae08d7ad5f4291e0a79f5e29l-m2328226383s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/45710c4eae08d7ad5f4291e0a79f5e29l-m458268734s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/45710c4eae08d7ad5f4291e0a79f5e29l-m2328226383s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "3945546962",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "SLNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Charles Rutenberg Realty, Inc.",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": {
+        "advertisers": null,
+        "description": {
+          "name": null
+        },
+        "permalink": "3-Fordham-Hill-Oval_Bronx_NY_10468_B9298285453",
+        "promotions": null,
+        "property_id": "9298285453"
+      },
+      "description": {
+        "baths_consolidated": "1.5",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 2,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 975,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": "co_op",
+        "type": "coop"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-04-03T00:32:44.000000Z",
+      "list_price": 235000,
+      "listing_id": "2980101670",
+      "location": {
+        "address": {
+          "city": "Bronx",
+          "coordinate": {
+            "lat": 40.864651,
+            "lon": -73.908211
+          },
+          "line": "3 Fordham Hill Oval Apt 14F",
+          "postal_code": "10468",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36005",
+          "name": "Bronx"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3%20Fordham%20Hill%20Oval%20Apt%2014F%2C%20Bronx%2C%20NY%2010468&size=640x480&source=outdoor&signature=l87s2ummc2-YH5LKPXWqmNRFi9Y="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "3-Fordham-Hill-Oval-Apt-14F_Bronx_NY_10468_M90101-19415",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/ce74d4ffe8f93e7deff1cfc2e20f22ebl-m978871990s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/ce74d4ffe8f93e7deff1cfc2e20f22ebl-m2083922194s.jpg"
+        }
+      ],
+      "price_reduced_amount": 7500,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/ce74d4ffe8f93e7deff1cfc2e20f22ebl-m978871990s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "9010119415",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": "Charles Rutenberg Realty, Inc."
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Rock Home Realty Group Inc",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": null,
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 0,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": "2007-04-11",
+        "sold_price": 439000,
+        "sqft": null,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2024-03-21T19:55:30.000000Z",
+      "list_price": 310000,
+      "listing_id": "2965366571",
+      "location": {
+        "address": {
+          "city": "Hollis Ny",
+          "coordinate": {
+            "lat": 40.714892,
+            "lon": -73.759985
+          },
+          "line": "90-63 199 Street 199 St",
+          "postal_code": "11423",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36081",
+          "name": "Queens"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=90-63%20199%20Street%20199%20St%2C%20Hollis%20Ny%2C%20NY%2011423&size=640x480&source=outdoor&signature=3x2gO5K0J8gm57cYFdJmcYfTDSc="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "9063-199th-St_Hollis_NY_11423_M40340-92522",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/5248eb47df86f00e3630136b5e52ebe1l-m2244336603s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/5248eb47df86f00e3630136b5e52ebe1l-m2244336603s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "co_broke"
+        ]
+      },
+      "property_id": "4034092522",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "STNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        },
+        {
+          "builder": null,
+          "type": "co_seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Howard Hanna Horseheads",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 6338,
+        "name": null,
+        "sold_date": "2002-04-02",
+        "sold_price": 9560,
+        "sqft": 2664,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "multi_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-03-20T18:19:10.000000Z",
+      "list_price": 29900,
+      "listing_id": "2979598267",
+      "location": {
+        "address": {
+          "city": "Elmira",
+          "coordinate": {
+            "lat": 42.083066,
+            "lon": -76.796625
+          },
+          "line": "312 Caldwell Ave",
+          "postal_code": "14904",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36015",
+          "name": "Chemung"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=312%20Caldwell%20Ave%2C%20Elmira%2C%20NY%2014904&size=640x480&source=outdoor&signature=HrtRgIsj8be7SfSa7EHP5bjmWw0="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "312-Caldwell-Ave_Elmira_NY_14904_M43830-89603",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/32487473b37152365379dffb3603991dl-m1996781473s.jpg"
+        }
+      ],
+      "price_reduced_amount": 5000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/32487473b37152365379dffb3603991dl-m1996781473s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4383089603",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": "Howard Hanna Horseheads"
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Berkshire Hathaway CNY Realty",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 54450,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1344,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": true,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-02T16:12:49.000000Z",
+      "list_price": 74700,
+      "listing_id": "2983842864",
+      "location": {
+        "address": {
+          "city": "Beaver Dams",
+          "coordinate": {
+            "lat": 42.34123,
+            "lon": -76.963968
+          },
+          "line": "2220 County Road 19",
+          "postal_code": "14812",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36097",
+          "name": "Schuyler"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=2220%20County%20Road%2019%2C%20Beaver%20Dams%2C%20NY%2014812&size=640x480&source=outdoor&signature=Z5i3_pw-seAYGL4cQTyxhiHlGp4="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "2220-County-Road-19_Beaver-Dams_NY_14812_M43546-10841",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/de6309a0e5cf3af7232971460ad5423el-m2138373065s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/de6309a0e5cf3af7232971460ad5423el-m880629958s.jpg"
+        }
+      ],
+      "price_reduced_amount": 10300,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/de6309a0e5cf3af7232971460ad5423el-m2138373065s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4354610841",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/syr/S1613448",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "S & J Property Management Corp",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 21780,
+        "name": null,
+        "sold_date": "2005-05-03",
+        "sold_price": 80000,
+        "sqft": 1100,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": true,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-08T19:48:25.000000Z",
+      "list_price": 305000,
+      "listing_id": "2984017357",
+      "location": {
+        "address": {
+          "city": "Center Moriches",
+          "coordinate": {
+            "lat": 40.822541,
+            "lon": -72.801755
+          },
+          "line": "358 S Service Rd",
+          "postal_code": "11934",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36103",
+          "name": "Suffolk"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=358%20S%20Service%20Rd%2C%20Center%20Moriches%2C%20NY%2011934&size=640x480&source=outdoor&signature=hu9UkO_aaT3LyL8fN15vzoBBhhw="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "358-S-Service-Rd_Center-Moriches_NY_11934_M41780-01362",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/0686e71692636aba6b0f5144641d3bd7l-m2405001224s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/0686e71692636aba6b0f5144641d3bd7l-m3452235174s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/0686e71692636aba6b0f5144641d3bd7l-m2405001224s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4178001362",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Mjj Realty",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 5227,
+        "name": null,
+        "sold_date": "1996-06-04",
+        "sold_price": 12000,
+        "sqft": 1200,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2024-10-01T01:45:38.000000Z",
+      "list_price": 35000,
+      "listing_id": "2973029496",
+      "location": {
+        "address": {
+          "city": "Gloversville",
+          "coordinate": {
+            "lat": 43.05679,
+            "lon": -74.343127
+          },
+          "line": "11 Union St",
+          "postal_code": "12078",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36035",
+          "name": "Fulton"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=11%20Union%20St%2C%20Gloversville%2C%20NY%2012078&size=640x480&source=outdoor&signature=n4cHSrxMZqcuwIvZVbJD2r3Ypfs="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "11-Union-St_Gloversville_NY_12078_M42757-67357",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/0b499f33914084cfa7790e869107a704l-m3290543546s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/0b499f33914084cfa7790e869107a704l-m2345348178s.jpg"
+        }
+      ],
+      "price_reduced_amount": 4900,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/0b499f33914084cfa7790e869107a704l-m3290543546s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4275767357",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "ALNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Howard Hanna Professionals - Olean",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 11761,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1613,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-20T14:52:29.000000Z",
+      "list_price": 49000,
+      "listing_id": "2983350385",
+      "location": {
+        "address": {
+          "city": "Scio",
+          "coordinate": {
+            "lat": 42.173763,
+            "lon": -77.978668
+          },
+          "line": "4010 Main St",
+          "postal_code": "14880",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36003",
+          "name": "Allegany"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=4010%20Main%20St%2C%20Scio%2C%20NY%2014880&size=640x480&source=outdoor&signature=_SjoykPlotEBeLC4YSMoMcQ8574="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "4010-Main_Scio_NY_14880_M99449-11406",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/9deeb168279dfbe758b6903b8ceaa9b1l-m949088674s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/9deeb168279dfbe758b6903b8ceaa9b1l-m1978784123s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/9deeb168279dfbe758b6903b8ceaa9b1l-m949088674s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "9944911406",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Signature Premier Properties",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2.5",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 5,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 28314,
+        "name": null,
+        "sold_date": "2020-05-04",
+        "sold_price": 900000,
+        "sqft": 3718,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-05-15T04:17:32.000000Z",
+      "list_price": 1199990,
+      "listing_id": "2981877503",
+      "location": {
+        "address": {
+          "city": "Setauket",
+          "coordinate": {
+            "lat": 40.948009,
+            "lon": -73.119001
+          },
+          "line": "12 Mill River Rd",
+          "postal_code": "11733",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36103",
+          "name": "Suffolk"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=12%20Mill%20River%20Rd%2C%20Setauket%2C%20NY%2011733&size=640x480&source=outdoor&signature=Xtk7j1kHZfeDkJTlOb_Ie_wtYpc="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "12-Mill-River-Rd_Setauket_NY_11733_M41466-97055",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/5dd52122f1e3913b4e74173f3de85733l-m748926372s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/5dd52122f1e3913b4e74173f3de85733l-m1124127279s.jpg"
+        }
+      ],
+      "price_reduced_amount": 50000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/5dd52122f1e3913b4e74173f3de85733l-m748926372s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4146697055",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": "Signature Premier Properties"
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Hooper Realty",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 4792,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1122,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-07T20:04:36.000000Z",
+      "list_price": 65000,
+      "listing_id": "2983977460",
+      "location": {
+        "address": {
+          "city": "Buffalo",
+          "coordinate": {
+            "lat": 42.941477,
+            "lon": -78.797314
+          },
+          "line": "15 Allendale Rd",
+          "postal_code": "14215",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36029",
+          "name": "Erie"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=15%20Allendale%20Rd%2C%20Buffalo%2C%20NY%2014215&size=640x480&source=outdoor&signature=atn7Jhu515TjU3P90uFkueV4nfc="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "15-Allendale-Rd_Buffalo_NY_14215_M47890-49861",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/44061154cf0a13ef83bb64bcab8c683cl-m1814588677s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/44061154cf0a13ef83bb64bcab8c683cl-m2501946743s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/44061154cf0a13ef83bb64bcab8c683cl-m1814588677s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4789049861",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Wallace Enrique",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": null,
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 0,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": "2005-06-09",
+        "sold_price": 605000,
+        "sqft": null,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": true,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-16T17:13:59.000000Z",
+      "list_price": 400000,
+      "listing_id": "2983177279",
+      "location": {
+        "address": {
+          "city": "Brooklyn",
+          "coordinate": {
+            "lat": 40.629762,
+            "lon": -73.905615
+          },
+          "line": "38 Paerdegat 9th St",
+          "postal_code": "11236",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36047",
+          "name": "Kings"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=38%20Paerdegat%209th%20St%2C%20Brooklyn%2C%20NY%2011236&size=640x480&source=outdoor&signature=oDkVJ8ohSpllfGmtPM6zRe53NYs="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "38-Paerdegat-9th-St_Brooklyn_NY_11236_M38180-22509",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/7c0706f88cbca6f9e0e0a1b3a89f8159l-m2261640090s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/7c0706f88cbca6f9e0e0a1b3a89f8159l-m2261640090s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "3818022509",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "STNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Coldwell Banker Prime Properties",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 3049,
+        "name": null,
+        "sold_date": "2025-01-13",
+        "sold_price": 25000,
+        "sqft": 1838,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "multi_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-04-01T11:21:34.000000Z",
+      "list_price": 48000,
+      "listing_id": "2980010565",
+      "location": {
+        "address": {
+          "city": "Rome",
+          "coordinate": {
+            "lat": 43.219023,
+            "lon": -75.46682
+          },
+          "line": "302 Expense St",
+          "postal_code": "13440",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36065",
+          "name": "Oneida"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=302%20Expense%20St%2C%20Rome%2C%20NY%2013440&size=640x480&source=outdoor&signature=WqA7DLI8NyH33iq8r5WuPTBqCSQ="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "302-Expense-St_Rome_NY_13440_M44938-36340",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/2667dfeebee255bb73af462c43b54065l-b3227081259s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/2667dfeebee255bb73af462c43b54065l-b3620620298s.jpg"
+        }
+      ],
+      "price_reduced_amount": 4000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/2667dfeebee255bb73af462c43b54065l-b3227081259s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4493836340",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/syr/S1596564",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "LIST WITH FREEDOM",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": null,
+        "baths_max": null,
+        "baths_min": null,
+        "beds": null,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 447361,
+        "name": null,
+        "sold_date": "2025-06-06",
+        "sold_price": 24000,
+        "sqft": null,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "land"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-28T23:34:33.000000Z",
+      "list_price": 23900,
+      "listing_id": "2983655161",
+      "location": {
+        "address": {
+          "city": "Lockwood",
+          "coordinate": {
+            "lat": 42.092641,
+            "lon": -76.51883
+          },
+          "line": "5 Collins Hill Rd",
+          "postal_code": "14859",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36107",
+          "name": "Tioga"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=5%20Collins%20Hill%20Rd%2C%20Lockwood%2C%20NY%2014859&size=640x480&source=outdoor&signature=VF8twK3xfnkCSozQOBIUWnvOB90="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "Collins-Hill-Rd_Barton_NY_14859_M40056-08776",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/64177297da374d852d68c96b30060590l-m2351929573s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/64177297da374d852d68c96b30060590l-m3558356750s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/64177297da374d852d68c96b30060590l-m2351929573s.jpg"
+      },
+      "products": null,
+      "property_id": "4005608776",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BRNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/gbar/331831",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Berkshire Hathaway HomeServices Blake, REALTORS",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 6,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 3485,
+        "name": null,
+        "sold_date": "1995-01-10",
+        "sold_price": 30000,
+        "sqft": 2222,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "multi_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-05-15T00:11:02.000000Z",
+      "list_price": 194000,
+      "listing_id": "2981868322",
+      "location": {
+        "address": {
+          "city": "Schenectady",
+          "coordinate": {
+            "lat": 42.796846,
+            "lon": -73.918944
+          },
+          "line": "82 Robinson St",
+          "postal_code": "12304",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36093",
+          "name": "Schenectady"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=82%20Robinson%20St%2C%20Schenectady%2C%20NY%2012304&size=640x480&source=outdoor&signature=rsXXwUfDlLAQY0-5a40liyNqd_0="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "82-Robinson-St_Schenectady_NY_12304_M38112-28827",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/12564b23797938e7c3da1ea20cf401e7l-m1475068362s.jpg"
+        }
+      ],
+      "price_reduced_amount": 15000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/12564b23797938e7c3da1ea20cf401e7l-m1475068362s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "3811228827",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "ALNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        },
+        {
+          "builder": null,
+          "type": "co_seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Weichert Realtors TMT Group",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 1200,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": "co_op",
+        "type": "coop"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": true,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-13T02:03:11.000000Z",
+      "list_price": 270000,
+      "listing_id": "2984203619",
+      "location": {
+        "address": {
+          "city": "Bayside",
+          "coordinate": {
+            "lat": 40.78056,
+            "lon": -73.782555
+          },
+          "line": "18-50 211 St Unit 3D",
+          "postal_code": "11360",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36081",
+          "name": "Queens"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=18-50%20211%20St%20Unit%203D%2C%20Bayside%2C%20NY%2011360&size=640x480&source=outdoor&signature=Gcy6lj4eWRmWYRm7IAgfgS3xCvo="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "1850-211th-St-Apt-3D_Bayside_NY_11360_M99648-59859",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/8b4c193cd0ec1fbc31d3f97ad7d597cbl-m3775499851s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/8b4c193cd0ec1fbc31d3f97ad7d597cbl-m3775499851s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "9964859859",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": "Weichert Realtors TMT Group"
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Greater Syracuse Land Bank",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 10,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": null,
+        "name": null,
+        "sold_date": "2021-02-23",
+        "sold_price": 8000,
+        "sqft": 5198,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2024-02-15T21:05:36.000000Z",
+      "list_price": 10000,
+      "listing_id": "2964151556",
+      "location": {
+        "address": {
+          "city": "Syracuse",
+          "coordinate": {
+            "lat": 43.037626,
+            "lon": -76.162316
+          },
+          "line": "678 Onondaga St W",
+          "postal_code": "13204",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36067",
+          "name": "Onondaga"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=678%20Onondaga%20St%20W%2C%20Syracuse%2C%20NY%2013204&size=640x480&source=outdoor&signature=pRzj7N5DxUfCboz0bIhirY4xkqQ="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "678-W-Onondaga-St_Syracuse_NY_13204_M39634-37118",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/15efd4d1f9f862a1313988fcedeb67c4l-m119280848s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/15efd4d1f9f862a1313988fcedeb67c4l-m1860682740s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/15efd4d1f9f862a1313988fcedeb67c4l-m119280848s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "co_broke"
+        ]
+      },
+      "property_id": "3963437118",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "STNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Coldwell Banker American Homes",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 2,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 7405,
+        "name": null,
+        "sold_date": "2017-12-18",
+        "sold_price": 450000,
+        "sqft": null,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-05-23T22:32:01.000000Z",
+      "list_price": 699000,
+      "listing_id": "2982278126",
+      "location": {
+        "address": {
+          "city": "Northport",
+          "coordinate": {
+            "lat": 40.925656,
+            "lon": -73.312321
+          },
+          "line": "3 Makamah Beach Rd",
+          "postal_code": "11768",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36103",
+          "name": "Suffolk"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3%20Makamah%20Beach%20Rd%2C%20Northport%2C%20NY%2011768&size=640x480&source=outdoor&signature=Ag0U5pDQi_MpnU6-Yg7Eju4l8DE="
+      },
+      "matterport": false,
+      "open_houses": [
+        {
+          "end_date": "2025-07-20T13:00:00",
+          "start_date": "2025-07-20T11:00:00"
+        }
+      ],
+      "permalink": "3-Makamah-Beach-Rd_Northport_NY_11768_M47303-39279",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/cdc7a11aaa2420a9b081ce8980515e9el-m3138081494s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/cdc7a11aaa2420a9b081ce8980515e9el-m456962299s.jpg"
+        }
+      ],
+      "price_reduced_amount": 51000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/cdc7a11aaa2420a9b081ce8980515e9el-m3138081494s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4730339279",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://homediagroup.com/3-Makamah-Beach-Rd/idx",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        },
+        {
+          "builder": null,
+          "type": "co_seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "KELLER WILLIAMS REALTY LANDMARK II",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2.5",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 6868,
+        "name": null,
+        "sold_date": "2004-12-08",
+        "sold_price": 570000,
+        "sqft": 2205,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-02-03T22:32:24.000000Z",
+      "list_price": 1190000,
+      "listing_id": "2977913327",
+      "location": {
+        "address": {
+          "city": "Valley Stream",
+          "coordinate": {
+            "lat": 40.644941,
+            "lon": -73.723603
+          },
+          "line": "735 Caldwell Ave",
+          "postal_code": "11581",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36059",
+          "name": "Nassau"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=735%20Caldwell%20Ave%2C%20Valley%20Stream%2C%20NY%2011581&size=640x480&source=outdoor&signature=_L3NkelNPeBA_6k3uJjR1XMRhsY="
+      },
+      "matterport": false,
+      "open_houses": [
+        {
+          "end_date": "2025-07-20T13:00:00",
+          "start_date": "2025-07-20T11:00:00"
+        }
+      ],
+      "permalink": "735-Caldwell-Ave_Valley-Stream_NY_11581_M42147-08837",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/356c408ff4c713ce2efc6099491a13b7l-m2933380444s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/356c408ff4c713ce2efc6099491a13b7l-m3207431231s.jpg"
+        }
+      ],
+      "price_reduced_amount": 10000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/356c408ff4c713ce2efc6099491a13b7l-m2933380444s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4214708837",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Go Lyst Agency LLC",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 2,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 609840,
+        "name": null,
+        "sold_date": "2018-07-10",
+        "sold_price": 15500,
+        "sqft": 1720,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-26T19:21:44.000000Z",
+      "list_price": 89900,
+      "listing_id": "2983574559",
+      "location": {
+        "address": {
+          "city": "Johnstown",
+          "coordinate": {
+            "lat": 43.073199,
+            "lon": -74.508449
+          },
+          "line": "3190 State Highway 10",
+          "postal_code": "12095",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36035",
+          "name": "Fulton"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3190%20State%20Highway%2010%2C%20Johnstown%2C%20NY%2012095&size=640x480&source=outdoor&signature=F7pUfmddisklkf4RC0QyIngoe5Y="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "3190-State-Highway-10_Johnstown_NY_12095_M48655-02119",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/3999ab36b48daa7daaab904237dd1e23l-m1938363743s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/3999ab36b48daa7daaab904237dd1e23l-m1458585525s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/3999ab36b48daa7daaab904237dd1e23l-m1938363743s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4865502119",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "ALNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        },
+        {
+          "builder": null,
+          "type": "co_seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Howard Hanna Cazenovia",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 9148,
+        "name": null,
+        "sold_date": "2017-05-23",
+        "sold_price": 87629,
+        "sqft": 1740,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": true,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2024-11-17T23:54:33.000000Z",
+      "list_price": 82900,
+      "listing_id": "2975103333",
+      "location": {
+        "address": {
+          "city": "Bainbridge",
+          "coordinate": {
+            "lat": 42.293112,
+            "lon": -75.483242
+          },
+          "line": "20 Pearl St",
+          "postal_code": "13733",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36017",
+          "name": "Chenango"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=20%20Pearl%20St%2C%20Bainbridge%2C%20NY%2013733&size=640x480&source=outdoor&signature=yMxY8dCI1P-5XCdlIta4FO_QHkk="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "20-Pearl-St_Bainbridge_NY_13733_M35362-50407",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/f51b924d44262b5a427b9371c8d17b19l-m514658153s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/f51b924d44262b5a427b9371c8d17b19l-m933716809s.jpg"
+        }
+      ],
+      "price_reduced_amount": 7000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/f51b924d44262b5a427b9371c8d17b19l-m514658153s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "3536250407",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": "Howard Hanna Real Estate"
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/syr/S1578090",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Paredes Realty NYC LLC",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 15477,
+        "name": null,
+        "sold_date": "1993-01-07",
+        "sold_price": 47500,
+        "sqft": 2000,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": false
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2023-08-17T20:05:45.000000Z",
+      "list_price": 250000,
+      "listing_id": "2950633435",
+      "location": {
+        "address": {
+          "city": "Yorktown Heights",
+          "coordinate": {
+            "lat": 41.274105,
+            "lon": -73.774489
+          },
+          "line": "147 Halyan Rd",
+          "postal_code": "10598",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36119",
+          "name": "Westchester"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=147%20Halyan%20Rd%2C%20Yorktown%20Heights%2C%20NY%2010598&size=640x480&source=outdoor&signature=SMsXCl8Akh1FSSd3Ua6TFKIBybc="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "147-Halyan-Rd_Yorktown-Heights_NY_10598_M40809-87232",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/69db865192be40c73a7872458189b141l-m2365338131s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/69db865192be40c73a7872458189b141l-m2365338131s.jpg"
+        }
+      ],
+      "price_reduced_amount": 239000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/69db865192be40c73a7872458189b141l-m2365338131s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "4080987232",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Kyser Realty Inc.",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 1,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 113256,
+        "name": null,
+        "sold_date": "1999-02-18",
+        "sold_price": 9000,
+        "sqft": 1436,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": true,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "pure",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": true
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-11T00:15:46.000000Z",
+      "list_price": 29900,
+      "listing_id": "2982962419",
+      "location": {
+        "address": {
+          "city": "Cuba",
+          "coordinate": {
+            "lat": 42.151983,
+            "lon": -78.238958
+          },
+          "line": "3520 Moulton Hill Aka 8858 Hideaway Ln",
+          "postal_code": "14727",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36003",
+          "name": "Allegany"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=3520%20Moulton%20Hill%20Aka%208858%20Hideaway%20Ln%2C%20Cuba%2C%20NY%2014727&size=640x480&source=outdoor&signature=6iN948-jVKnMgOM8BeZnCpeDIwc="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "8858-Hideaway-Ln_Cuba_NY_14727_M40514-32099",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/f065f15656e92b290463ed27647ed064l-m1786222635s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/f065f15656e92b290463ed27647ed064l-m1786222635s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "co_broke"
+        ]
+      },
+      "property_id": "4051432099",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Howard Hanna | Rand Realty",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1.5",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 8000,
+        "name": null,
+        "sold_date": "1996-07-29",
+        "sold_price": 15000,
+        "sqft": 666,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": true,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-13T00:08:51.000000Z",
+      "list_price": 54999,
+      "listing_id": "2984200680",
+      "location": {
+        "address": {
+          "city": "Monroe",
+          "coordinate": {
+            "lat": 41.385325,
+            "lon": -74.14072
+          },
+          "line": "10 Woodland Cir N",
+          "postal_code": "10950",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36071",
+          "name": "Orange"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=10%20Woodland%20Cir%20N%2C%20Monroe%2C%20NY%2010950&size=640x480&source=outdoor&signature=uXL0gsxxGfjZBNRFaGNbHt0loFo="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "10-Woodland-Cir-N_Monroe_NY_10950_M47066-58285",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/12e944c604b369edc178e5c2908b82fdl-m3676036483s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/12e944c604b369edc178e5c2908b82fdl-m4248386634s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/12e944c604b369edc178e5c2908b82fdl-m3676036483s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4706658285",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "LINY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Howard Hanna - Hornell",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 3,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 8712,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 2002,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": true,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-10T15:34:01.000000Z",
+      "list_price": 79999,
+      "listing_id": "2984098075",
+      "location": {
+        "address": {
+          "city": "Hornell",
+          "coordinate": {
+            "lat": 42.314238,
+            "lon": -77.65737
+          },
+          "line": "33 E Vanscoter St",
+          "postal_code": "14843",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36101",
+          "name": "Steuben"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=33%20E%20Vanscoter%20St%2C%20Hornell%2C%20NY%2014843&size=640x480&source=outdoor&signature=sFxlMGTzdkV_Bp0Q5FIn35w6y00="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "33-E-Vanscoter-St_Hornell_NY_14843_M46140-12768",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/e698a8550fb6f595073d09da834165e4l-m1229539260s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/e698a8550fb6f595073d09da834165e4l-m160117697s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/e698a8550fb6f595073d09da834165e4l-m1229539260s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4614012768",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": "Howard Hanna"
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Howard Hanna",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1.5",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 8790,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 2553,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": true,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-08T16:55:54.000000Z",
+      "list_price": 174900,
+      "listing_id": "2984009166",
+      "location": {
+        "address": {
+          "city": "Rochester",
+          "coordinate": {
+            "lat": 43.172345,
+            "lon": -77.652431
+          },
+          "line": "112 Isabelle St",
+          "postal_code": "14606",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36055",
+          "name": "Monroe"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=112%20Isabelle%20St%2C%20Rochester%2C%20NY%2014606&size=640x480&source=outdoor&signature=uTZdTeV_4P9EWnyM3ZwQRm95BwY="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "112-Isabelle-St_Rochester_NY_14606_M37983-55537",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/d5a0f87ea8dc33c3f89164b3e6efad0cl-m82229809s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/d5a0f87ea8dc33c3f89164b3e6efad0cl-m1567202585s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/d5a0f87ea8dc33c3f89164b3e6efad0cl-m82229809s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "core.agent",
+          "co_broke"
+        ]
+      },
+      "property_id": "3798355537",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Amanda Grover Real Estate, LLC.",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 1,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 653400,
+        "name": null,
+        "sold_date": "2010-04-24",
+        "sold_price": 122500,
+        "sqft": 640,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "farm"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-06-18T19:22:08.000000Z",
+      "list_price": 195000,
+      "listing_id": "2983268017",
+      "location": {
+        "address": {
+          "city": "Middlesex",
+          "coordinate": {
+            "lat": 42.685815,
+            "lon": -77.235707
+          },
+          "line": "1571 Emerson Rd",
+          "postal_code": "14507",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36123",
+          "name": "Yates"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=1571%20Emerson%20Rd%2C%20Middlesex%2C%20NY%2014507&size=640x480&source=outdoor&signature=vUl_tcP-Gq60WQAdLuqozTapSHY="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "1571-Emerson-Rd_Middlesex_NY_14507_M42203-94660",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/fff52eb2eb9e6c87bca233962fa15785l-m1931190842s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/fff52eb2eb9e6c87bca233962fa15785l-m1242573199s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/fff52eb2eb9e6c87bca233962fa15785l-m1931190842s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4220394660",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "Bid-N-Buy Realty & Auctions",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 5,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 37026,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 2108,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": true,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "unity",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-01T00:05:59.000000Z",
+      "list_price": 63000,
+      "listing_id": "2983761699",
+      "location": {
+        "address": {
+          "city": "Holley",
+          "coordinate": {
+            "lat": 43.19372,
+            "lon": -78.063977
+          },
+          "line": "4535 Holley Byron Rd",
+          "postal_code": "14470",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36073",
+          "name": "Orleans"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=4535%20Holley%20Byron%20Rd%2C%20Holley%2C%20NY%2014470&size=640x480&source=outdoor&signature=yXUrJ2fiYq--drZdh3SxpsCG77s="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "4535-Holley-Byron-Rd_Holley_NY_14470_M49154-35669",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/039c2ef3afacad94a99b34e1222cc28cl-m2231811227s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/039c2ef3afacad94a99b34e1222cc28cl-m522215773s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/039c2ef3afacad94a99b34e1222cc28cl-m2231811227s.jpg"
+      },
+      "products": {
+        "brand_name": "basic_opt_in",
+        "products": [
+          "co_broke"
+        ]
+      },
+      "property_id": "4915435669",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          },
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": null
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "EXIT REALTY HOMEWARD BOUND",
+          "photo": "https://ap.rdcpix.com/ed87863f2f13e289d5d2fa6bc044a05fo-b1637540070s.jpg",
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "2",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 4,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 12632,
+        "name": null,
+        "sold_date": null,
+        "sold_price": null,
+        "sqft": 2234,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": false,
+        "is_pending": null,
+        "is_price_reduced": true
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2024-06-26T23:31:37.000000Z",
+      "list_price": 64900,
+      "listing_id": "2968944169",
+      "location": {
+        "address": {
+          "city": "Oxford",
+          "coordinate": {
+            "lat": 42.445338,
+            "lon": -75.597236
+          },
+          "line": "23 N Washington Ave",
+          "postal_code": "13830",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36017",
+          "name": "Chenango"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=23%20N%20Washington%20Ave%2C%20Oxford%2C%20NY%2013830&size=640x480&source=outdoor&signature=Y9al0CSk2fzCEC8ZIEh0HqR17k0="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "23-N-Washington-Ave_Oxford_NY_13830_M47129-97073",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/9a964033c4b55d614ae51c228347101el-b1842076998s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/9a964033c4b55d614ae51c228347101el-b3675494136s.jpg"
+        }
+      ],
+      "price_reduced_amount": 10000,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/9a964033c4b55d614ae51c228347101el-b1842076998s.jpg"
+      },
+      "products": {
+        "brand_name": "advantage_brand",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "listing_owner_brand.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "4712997073",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BRNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/gbar/326146",
+          "type": null
+        }
+      ]
+    },
+    {
+      "advertisers": [
+        {
+          "builder": null,
+          "type": "seller"
+        }
+      ],
+      "branding": [
+        {
+          "name": "HUNT Real Estate ERA - Liverpool",
+          "photo": null,
+          "type": "Office"
+        }
+      ],
+      "community": null,
+      "description": {
+        "baths_consolidated": "1",
+        "baths_max": null,
+        "baths_min": null,
+        "beds": 2,
+        "beds_max": null,
+        "beds_min": null,
+        "lot_sqft": 10907,
+        "name": null,
+        "sold_date": "2021-01-11",
+        "sold_price": 93000,
+        "sqft": 1044,
+        "sqft_max": null,
+        "sqft_min": null,
+        "sub_type": null,
+        "type": "single_family"
+      },
+      "flags": {
+        "is_coming_soon": null,
+        "is_contingent": null,
+        "is_foreclosure": null,
+        "is_new_construction": null,
+        "is_new_listing": true,
+        "is_pending": null,
+        "is_price_reduced": null
+      },
+      "lead_attributes": {
+        "lead_type": "co_broke",
+        "market_type": "choice",
+        "opcity_lead_attributes": {
+          "cashback_enabled": false,
+          "flip_the_market_enabled": false
+        },
+        "ready_connect_mortgage": {
+          "show_contact_a_lender": false,
+          "show_veterans_united": false
+        },
+        "show_contact_an_agent": true
+      },
+      "list_date": "2025-07-15T15:31:16.000000Z",
+      "list_price": 119000,
+      "listing_id": "2984283635",
+      "location": {
+        "address": {
+          "city": "Syracuse",
+          "coordinate": {
+            "lat": 43.10316,
+            "lon": -76.139893
+          },
+          "line": "221 Campbell Rd",
+          "postal_code": "13211",
+          "state": "New York",
+          "state_code": "NY"
+        },
+        "county": {
+          "fips_code": "36067",
+          "name": "Onondaga"
+        },
+        "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&client=gme-movesalesinc&location=221%20Campbell%20Rd%2C%20Syracuse%2C%20NY%2013211&size=640x480&source=outdoor&signature=lJO4VoR-FuTmNVtFkCuDkVGh4dk="
+      },
+      "matterport": false,
+      "open_houses": null,
+      "permalink": "221-Campbell-Rd_Syracuse_NY_13211_M38027-69947",
+      "photos": [
+        {
+          "href": "https://ap.rdcpix.com/28fdbbe8f9f1744a6c4b2ed36419da36l-m4112382714s.jpg"
+        },
+        {
+          "href": "https://ap.rdcpix.com/28fdbbe8f9f1744a6c4b2ed36419da36l-m378408584s.jpg"
+        }
+      ],
+      "price_reduced_amount": null,
+      "primary_photo": {
+        "href": "https://ap.rdcpix.com/28fdbbe8f9f1744a6c4b2ed36419da36l-m4112382714s.jpg"
+      },
+      "products": {
+        "brand_name": "essentials",
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ]
+      },
+      "property_id": "3802769947",
+      "rent_to_own": null,
+      "search_promotions": null,
+      "source": {
+        "agents": [
+          {
+            "office_name": null
+          }
+        ],
+        "id": "BUNY",
+        "plan_id": null,
+        "spec_id": null,
+        "type": "mls"
+      },
+      "status": "for_sale",
+      "virtual_tours": [
+        {
+          "href": "https://www.propertypanorama.com/instaview/syr/S1622190",
+          "type": null
+        }
+      ]
+    }
+  ],
+  "total": 87477
+}
