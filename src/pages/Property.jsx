@@ -9,10 +9,9 @@ const Property = () => {
   const [selectedPropertyId, setSelectedPropertyId] = useState(null);
   return (
     <>
-    {/* <h1 style={{ marginTop: "20px" }}>Properties</h1> */}
     <Hero/>
     <ProOption/>
-    {/* <FetchSaleListings/> */}
+    <FetchSaleListings/>
     <PropertyRentListing/>
     <Footer/>
     </>

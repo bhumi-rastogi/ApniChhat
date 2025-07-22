@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import mockForrentData from '../mockData/forrent.json';
+import "../styles/rent.css";
 
 
 const FetchSaleListings = () => {
@@ -30,8 +31,8 @@ const FetchSaleListings = () => {
         return mockForrentData;
       })
       .then((data) => {
-        // console.log(data);
-        setListings(data.listings || []);
+        console.log(data);
+        setListings(data.properties || []);
         setLoading(false);
       })
       .catch((err) => {
@@ -46,7 +47,7 @@ const FetchSaleListings = () => {
 
   return (
     <div className='back'>
-      <h1>Sale Listings</h1>
+      <h1>Rent Listings</h1>
       {error && <p style={{color: 'red'}}>Error: {error}</p>}
       {loading && <p>Loading...</p>}
       <div className='scrolling'>

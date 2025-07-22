@@ -1,4 +1,4 @@
-.scroll {
+.scrolling {
   display: flex;
   overflow-y: hidden;
   padding: 16px;
@@ -6,18 +6,18 @@
   height: 330px;
   text-align: center;
 }
-.bg>h1{
+.back>h1{
     text-align: center;
     justify-content: center;
     align-items: center;
     font-size: 2.5rem;
     padding: 25px;
 }
-.bg{
-    background-color: #94C5CC;
+.back{
     padding-bottom: 50px;
+    background-color: #A1A6B4;
 }
-.property {
+.prop {
   flex: 0 0 auto; 
   width: 250px;
   border-radius: 15px;
@@ -28,7 +28,7 @@
   font-size: medium;
 }
 
-.property img {
+.prop img {
   width: 100%;
   margin-bottom: 16px;
 }
